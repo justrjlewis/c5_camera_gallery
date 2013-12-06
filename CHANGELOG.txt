@@ -1,0 +1,10 @@
+13.12.03 — v0.1.0
+  ➾ input initial package controller information
+13.12.03 — v0.1.1
+  ➾ added camera gallery css and js
+13.12.03 — v0.1.2
+  ➾ added camera gallery css and js
+13.12.04 — v0.1.3
+  ➾ added event header
+13.12.04 — v0.1.4
+  ➾ added event description
